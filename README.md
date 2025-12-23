@@ -1,6 +1,6 @@
 # Tic Tac Toe (JavaScript)
 
-## [Try online]()
+## [Try online](https://moein-moatali-2006.github.io/TicTacToe.io)
 A simple **Tic Tac Toe** game built with **HTML, CSS, and Vanilla JavaScript**.
 
 This project supports two game modes:
